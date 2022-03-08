@@ -1,2 +1,2 @@
-# Injecto---Simple-Dependency-Injection-with-Unity
+# Injecto
 Injecto - Simple Dependency Injection with Unity
